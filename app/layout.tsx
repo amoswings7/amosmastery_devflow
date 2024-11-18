@@ -6,7 +6,6 @@ import React from "react";
 
 import "./globals.css";
 import { auth } from "@/auth";
-import Navbar from "@/components/navigation/navbar";
 import { Toaster } from "@/components/ui/toaster";
 
 const inter = localFont({
